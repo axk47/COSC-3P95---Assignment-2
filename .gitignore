@@ -1,4 +1,5 @@
-client_files
-client/__pycache__
-server/__pycache__
-telemetry/__pycache__
+client_files/
+client/__pycache__/
+server/__pycache__/
+telemetry/__pycache__/
+sd/
