@@ -2,5 +2,4 @@ sd
 client_files
 client/__pycache__
 server/__pycache__
-server_files
 telemetry/__pycache__
